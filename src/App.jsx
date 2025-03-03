@@ -108,7 +108,7 @@ useEffect(() => {
 
       <div className='my-5 space-y-3 bg-gray-50 p-5'>
       <h2 className='text-2xl font-extrabold text-gray-500 text-center'>
-        Resume <span className='text-indigo-600'>de Pagos </span>
+        Resumen <span className='text-indigo-600'>de Pagos </span>
       </h2>
 
       <p className='text-xl text-gray-500 text-center font-bold'>{meses} Meses</p>
